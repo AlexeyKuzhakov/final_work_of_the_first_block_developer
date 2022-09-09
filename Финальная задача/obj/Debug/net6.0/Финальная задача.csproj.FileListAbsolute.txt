@@ -1,0 +1,15 @@
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\bin\Debug\net6.0\Финальная задача.exe
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\bin\Debug\net6.0\Финальная задача.deps.json
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\bin\Debug\net6.0\Финальная задача.runtimeconfig.json
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\bin\Debug\net6.0\Финальная задача.dll
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\bin\Debug\net6.0\Финальная задача.pdb
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\Финальная задача.csproj.AssemblyReference.cache
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\Финальная задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\Финальная задача.AssemblyInfoInputs.cache
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\Финальная задача.AssemblyInfo.cs
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\Финальная задача.csproj.CoreCompileInputs.cache
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\Финальная задача.dll
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\refint\Финальная задача.dll
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\Финальная задача.pdb
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\Финальная задача.genruntimeconfig.cache
+C:\Users\kuzha\OneDrive\Документы\project\final_work_of_the_first_block_developer\Финальная задача\obj\Debug\net6.0\ref\Финальная задача.dll

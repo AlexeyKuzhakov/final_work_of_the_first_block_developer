@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kuzha\\OneDrive\\Документы\\project\\final_work_of_the_first_block_developer\\Финальная задача\\Финальная задача.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kuzha\\OneDrive\\Документы\\project\\final_work_of_the_first_block_developer\\Финальная задача\\Финальная задача.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kuzha\\OneDrive\\Документы\\project\\final_work_of_the_first_block_developer\\Финальная задача\\Финальная задача.csproj",
+        "projectName": "Финальная задача",
+        "projectPath": "C:\\Users\\kuzha\\OneDrive\\Документы\\project\\final_work_of_the_first_block_developer\\Финальная задача\\Финальная задача.csproj",
+        "packagesPath": "C:\\Users\\kuzha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kuzha\\OneDrive\\Документы\\project\\final_work_of_the_first_block_developer\\Финальная задача\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kuzha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
